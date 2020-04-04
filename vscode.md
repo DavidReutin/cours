@@ -118,7 +118,7 @@ Prérequis :
    	"protocol": "sftp",
    	"port": 54321,
    	"username": "foo",
-   	"remotePath": "/home/foo/python",
+   	"remotePath": "/home/foo/projects/python",
    	"uploadOnSave": true
    }
   ```
@@ -135,7 +135,7 @@ Prérequis :
 11. Dans VSCode, depuis le terminal, tapez les commandes suivantes :
 
   ```
-  cd python
+  cd projects/python
   python hello.py
   ```
 
